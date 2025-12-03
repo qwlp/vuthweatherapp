@@ -1,7 +1,7 @@
 {
   "name": "react-weather",
-  "private": true,
   "version": "0.0.0",
+  "homepage": "https://qwlp.github.io/vuthweatherapp/",
   "type": "module",
   "scripts": {
     "dev": "vite",
